@@ -5,3 +5,6 @@ consists of two columns. The first column contains the tweets which are
 based on the US Presidential Debate held in 2016 and the second column
 contains the sentiment of the tweet which has 3 values - positive,
 negative, neutral.
+
+Link to download the dataset 
+https://www.kaggle.com/crowdflower/first-gop-debate-twitter-sentiment
